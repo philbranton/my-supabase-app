@@ -9,6 +9,13 @@
     "postAttachCommand": {
       "server": "npm run dev"
     },
+    "customizations": {
+      "codespaces": {
+        "openFiles": [
+          "app/page.tsx"
+        ]
+      }
+    },
     // "customizations": {
     //   "codespaces": {
     //     "openFiles": [
